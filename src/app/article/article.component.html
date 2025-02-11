@@ -1,0 +1,16 @@
+<div class="search-container">
+    
+    <app-search-bar (searchEvent)="handleSearch($event)"></app-search-bar>
+
+
+    <div class="article-container"  *ngFor="let article of articles">
+        <p class="article-id">ID: {{ article.id }}</p>
+        <h1 class="article-headline">{{ article.headline }}</h1>
+        <p class="article-description">
+            {{ article.description }}
+        </p>
+        <p class="article-date">{{ article.date }}</p>
+
+    </div>
+
+</div>

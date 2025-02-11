@@ -1,0 +1,64 @@
+{
+    "data":[
+        {
+          "id": 1,
+          "headline": "New Study Reveals Surprising Benefits of Coffee",
+          "description": "A recent study published in the Journal of Food Science has found that regular coffee consumption may be linked to a reduced risk of certain chronic diseases.",
+          "date": "2024-07-26"
+        },
+        {
+          "id": 2,
+          "headline": "Local Artist Creates Stunning Mural Downtown",
+          "description": "A vibrant new mural has been unveiled in the city's arts district, showcasing the work of local artist Sarah Miller and celebrating the community's history.",
+          "date": "2024-07-25"
+        },
+        {
+          "id": 3,
+          "headline": "Tech Company Announces Breakthrough in AI Technology",
+          "description": "Innovate Inc. has announced a significant advancement in artificial intelligence, potentially revolutionizing industries from healthcare to transportation.",
+          "date": "2024-07-24"
+        },
+        {
+          "id": 4,
+          "headline": "Summer Heatwave Sweeps Across the Nation",
+          "description": "Record-breaking temperatures are expected across the country this week, prompting heat advisories and warnings from local authorities.",
+          "date": "2024-07-23"
+        },
+        {
+          "id": 5,
+          "headline": "New Wildlife Sanctuary Opens to the Public",
+          "description": "A new wildlife sanctuary dedicated to the conservation of endangered species has opened its doors to visitors, offering educational programs and guided tours.",
+          "date": "2024-07-22"
+        },
+        {
+          "id": 6,
+          "headline": "Stock Market Reaches Record High",
+          "description": "The Dow Jones Industrial Average has surpassed previous records, signaling strong economic growth and investor confidence.",
+          "date": "2024-07-21"
+        },
+        {
+          "id": 7,
+          "headline": "Local Chef Wins National Culinary Competition",
+          "description": "Chef Michael Johnson of The Bistro has won the prestigious Golden Spoon Award at the National Culinary Competition, showcasing his innovative cuisine.",
+          "date": "2024-07-20"
+        },
+        {
+          "id": 8,
+          "headline": "Scientists Discover New Species of Marine Life",
+          "description": "Researchers exploring the deep sea have discovered a previously unknown species of marine life, shedding light on the biodiversity of our oceans.",
+          "date": "2024-07-19"
+        },
+        {
+          "id": 9,
+          "headline": "Community Celebrates Annual Summer Festival",
+          "description": "The town's annual summer festival drew large crowds with live music, food vendors, and family-friendly activities.",
+          "date": "2024-07-18"
+        },
+        {
+          "id": 10,
+          "headline": "Study Links Exercise to Improved Mental Health",
+          "description": "A new study published in the Journal of Sports Medicine suggests that regular physical activity can have a significant positive impact on mental well-being.",
+          "date": "2024-07-17"
+        }
+      ]
+}
